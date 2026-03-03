@@ -25,7 +25,7 @@ Sou especialista em Análise de Dados e Business Intelligence, focado em constru
 <br>
 
 ### 🏆 Portfólio & Projetos
-> 💡 **Acesse meu Portfólio Executivo Completo no Notion:** [Ver Apresentação Visual e Resultados de Negócios]https://wise-whippet-9ea.notion.site/Engenharia-de-Dados-e-BI-Transformando-dados-complexos-em-decis-es-de-neg-cios-eaaa0811698d416ea465b87115d2f9ff?pvs=143
+> 💡 **Acesse meu Portfólio Executivo Completo no Notion:** [Ver Apresentação Visual e Resultados de Negócios](https://wise-whippet-9ea.notion.site/Engenharia-de-Dados-e-BI-Transformando-dados-complexos-em-decis-es-de-neg-cios-eaaa0811698d416ea465b87115d2f9ff?pvs=143)
 
 *Aqui no GitHub, você encontrará a "Casa de Máquinas" dos meus projetos (Scripts SQL, Modelagem Dimensional e Documentações Técnicas):*
 
