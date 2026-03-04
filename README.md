@@ -29,9 +29,10 @@ Sou especialista em Análise de Dados e Business Intelligence, focado em constru
 
 *Aqui no GitHub, você encontrará a "Casa de Máquinas" dos meus projetos (Scripts SQL, Modelagem Dimensional e Documentações Técnicas):*
 
-- 💊 **[Farma Xperiun Inc. - Executive BI & Supply Chain](#)** *(Repositório em breve)*
-- 🛒 **[Olist Intelligence - E-commerce Analytics](#)** *(Repositório em breve)*
-- 🏭 **[Xperiun Metalúrgica - Operações Industriais](#)** *(Repositório em breve)*
+- 💊 **[Farma Xperiun Inc. - Executive BI & Supply Chain](https://github.com/willwill08/bi-farma-xperiun-supply-chain)**
+- 🛒 **[Olist Intelligence - E-commerce Analytics](https://github.com/willwill08/olist-ecommerce-analytics)**
+- 🏭 **[Xperiun Metalúrgica - Operações Industriais](https://github.com/willwill08/xperiun-metalurgica-analytics)**
+- 🏋️‍♂️ **[Heavy Power Nutrition (HPN) | B2B Sales & Predictive Analytics](https://github.com/willwill08/hpn-b2b-sales-analytics)**
 
 <br>
 
